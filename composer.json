@@ -1,0 +1,15 @@
+{
+    "name": "ismailerkan/feeder",
+    "autoload": {
+        "psr-4": {
+            "ProductFeeder\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "ismailerkaan",
+            "email": "ismailerkan041@gmail.com"
+        }
+    ],
+    "require": {}
+}
